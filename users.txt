@@ -1,0 +1,2 @@
+Luke,23,80,Bond Street,Surry Hill,Sydney,1,TP,Paul,3333666,HATCH,BMW,2018,60000.0,0,2022,10,10,Very Good
+Paul,1100,80,Evans,Illawara,Wollongong,1,TP,Paul,30000001,LUX,BMW,2018,50000.0,1,2022,10,1,GOOD
