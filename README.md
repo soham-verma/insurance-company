@@ -26,7 +26,7 @@ The Insurance Company Management System is a comprehensive desktop application d
 
 ### Prerequisites
 
-- Java JDK [Version]
+- Java JDK [Version 17]
 
 ### Installation
 
